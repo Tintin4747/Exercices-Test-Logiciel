@@ -3,4 +3,4 @@
 ### Sujet
 Découverte des fixtures
 ### Fichier à exécuter
-`Exercice 1/exi1_test.py`
+`Exercice 1/exo1_test.py`
